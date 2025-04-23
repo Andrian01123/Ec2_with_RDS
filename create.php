@@ -1,4 +1,9 @@
 <?php
+
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+
+
 $host = 'database-1.c38kuy62qmhp.ap-southeast-1.rds.amazonaws.com';
 $db = 'database-1';
 $user = 'admin';  // or your RDS username
