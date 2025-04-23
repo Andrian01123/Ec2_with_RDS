@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 
 
 $host = 'database-1.c38kuy62qmhp.ap-southeast-1.rds.amazonaws.com';
-$db = 'database-1';
+$db = 'users';
 $user = 'admin';  // or your RDS username
 $pass = 'Billion.0513';
 
